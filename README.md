@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis-Dashboard-SQL-Power-BI-
+# Sales-Performance-Analysis-Dashboard-SQL-Power-BI
 
 ## 1. Short Description / Purpose
 
