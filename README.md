@@ -170,3 +170,5 @@ This project demonstrates the following data analytics skills:
 
 ---
 
+# Snapshots
+[!Snapshot](https://github.com/Archie-GIT/Sales-Performance-Analysis-Dashboard-SQL-Power-BI-/blob/main/Executive%20Summary_Sales_Performance.png)
